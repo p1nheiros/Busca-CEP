@@ -1,6 +1,6 @@
-# Busca-CEP 📄
+# Busca-CEP 🔎
 
-> Esse segundo Portfólio foi um projeto com o propósito de praticar e demonstrar minha evolução e conhecimento que venho adquirindo ao longo do tempo. Comparado com o meu primeiro portfólio que no caso foi meu primeiro projeto, acredito que consegui evoluir bastante dentro desse tempo ocorrido, e espero evoluir ainda mais.
+> O projeto é um buscador de CEP que ao buscá-lo ele exibe as informações necessárias. O objetivo desse projeto foi criar meu primeiro projeto com React e com o propósito de praticar e demonstrar minha evolução e conhecimento que venho adquirindo ao longo do tempo. 
 ### Linguagens 👨‍🏫
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
@@ -9,8 +9,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Implementação das Páginas Nav
-- [ ] Desenvolvimento do Front-End para as Páginas Nav
+- [ ] 
 
 ## ☕ Como usar?
 Para usar o projeto, siga estas etapas:
