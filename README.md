@@ -1,6 +1,6 @@
 # Busca CEP 🔎
 
-> O projeto é um buscador de CEP que ao buscá-lo ele exibe as informações necessárias. O objetivo desse projeto foi criar meu primeiro projeto com React e com o propósito de praticar e demonstrar minha evolução e conhecimento que venho adquirindo ao longo do tempo. 
+> O projeto é um buscador de CEP que ao buscá-lo, exibe as informações necessárias. O objetivo desse projeto foi criar meu primeiro projeto com React e com o propósito de praticar e demonstrar minha evolução e conhecimento que venho adquirindo ao longo do tempo. 
 ### Linguagens 👨‍🏫
 
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
