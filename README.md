@@ -7,7 +7,7 @@
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
 <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
 
-### Ajustes e melhorias
+### Ajustes e melhorias 🔧
 
 ✔️ O projeto foi concluído. 
 
