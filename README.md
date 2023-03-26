@@ -1,4 +1,4 @@
-# Busca-CEP 🔎
+# Busca CEP 🔎
 
 > O projeto é um buscador de CEP que ao buscá-lo ele exibe as informações necessárias. O objetivo desse projeto foi criar meu primeiro projeto com React e com o propósito de praticar e demonstrar minha evolução e conhecimento que venho adquirindo ao longo do tempo. 
 ### Linguagens 👨‍🏫
