@@ -9,9 +9,7 @@
 
 ### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [ ] 
+✔️ O projeto foi concluído. 
 
 ## ☕ Como usar?
 Para usar o projeto, siga estas etapas:
