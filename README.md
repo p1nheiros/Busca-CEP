@@ -15,7 +15,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 Para usar o projeto, siga estas etapas:
 
 ```
-<Baixe os arquivos e execute em um programa que tenha suporte para HTML5 e CSS3>
+<Baixe os arquivos e execute em um programa que tenha suporte para React, JavaScript, HTML5 e CSS3>
 ```
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
