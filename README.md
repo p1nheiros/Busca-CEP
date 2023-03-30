@@ -52,7 +52,7 @@ Desenvolvedor do projeto:
 ## 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
+ 
 ## ⚖️ Política de segurança
 
 Para relatar vulnerabilidades de segurança para este repositório. Veja o arquivo [SEGURANÇA](SECURITY.md) para mais detalhes.
