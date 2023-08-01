@@ -1,44 +1,54 @@
-# Busca CEP 🔎
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinheiros.dev@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-p-5b1585265)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@PinheirosDev)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/p1nheiros)
 
-> O projeto é um buscador de CEP que ao buscá-lo, exibe as informações necessárias. O objetivo desse projeto foi criar meu primeiro projeto com React e com o propósito de praticar e demonstrar minha evolução e conhecimento que venho adquirindo ao longo do tempo. 
-### Linguagens 👨‍🏫
+  <br />
+  <br />
 
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
+  <h1 align="center">Buscador de CEP</h1>
 
-### Ajustes e melhorias 🔧
+ > Buscador de CEP  totalmente responsivo para todos os dispositivos, construído usando React JS.
 
-✔️ O projeto foi concluído. 
+  <a href="https://buscador-de-cep-pinheiros.vercel.app/"><strong>➥ Visualizar Projeto</strong></a>
 
-## ☕ Como usar?
-Para usar o projeto, siga estas etapas:
+</div>
 
+<br />
+
+![busca-cep-banner-rep](https://github.com/p1nheiros/Busca-CEP/assets/124714182/4bb41040-626f-4760-81c3-85c7c8cea5a1)
+
+### 📋 Pré-requisitos
+
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+
+* [Git](https://git-scm.com/downloads "Download Git") deve estar instalado em seu sistema operacional.
+
+### 📍 Executar localmente
+
+Para executar o repositório localmente, execute este comando no seu git bash:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/p1nheiros/Busca-CEP.git
 ```
-<Baixe os arquivos e execute em um programa que tenha suporte para React, JavaScript, HTML5 e CSS3>
+
+Windows:
+
+```bash
+git clone https://github.com/p1nheiros/Busca-CEP.git
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
-## 📫 Contribuindo para o Projeto
 
-Para contribuir com o projeto, siga estas etapas:
-
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
-5. Crie a solicitação de pull.
-
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## 👨‍💻 Dev
-
-Desenvolvedor do projeto:
+### 👨‍💻 Desenvolvedor
 
 <table>
   <tr>
-    <td align="center">
+    <td>
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/124714182?v=4" width="100px;" alt="Lucas Pinheiro"/><br>
         <sub>
@@ -49,12 +59,12 @@ Desenvolvedor do projeto:
   </tr>
 </table>
 
-## 📝 Licença
+### ☎️ Contato
+
+Se você quiserentrar em contato comigo, pode me encontrar no [Gmail](mailto:pinheiros.dev@gmail.com).
+
+### 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
- 
-## ⚖️ Política de segurança
-
-Para relatar vulnerabilidades de segurança para este repositório. Veja o arquivo [SEGURANÇA](SECURITY.md) para mais detalhes.
 
 [⬆ Voltar ao topo](README.md)<br>
